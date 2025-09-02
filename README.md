@@ -4,15 +4,15 @@
 
 Implementación de una calculadora básica que peude soportar las siguiente operaciones:
 
-a. Calcular: ` sin(x)`, `cos(x)`, `tan(x)`
+a. Calcula: ` sin(x)`, `cos(x)`, `tan(x)`
 
 b. Raíz cuadrada usando `sqrt(x)`
 
-c. Logaritmo natura `ln(x)` y Logaritmo en base 10 `log(x)`
+c. Logaritmo natural `ln(x)` y Logaritmo en base 10 `log(x)`
 
 d. Uso de grados y de radianes `mode radianes` o  `mode grados`
 
-e. Calcule el factorial de un numero usando `!` ejemplo `5!=120`
+e. Factorial de un numero usando `!` ejemplo `5!=120`
 
 
 - Las funciones trigonométricas est+an inicialmente en grados.
@@ -20,7 +20,7 @@ e. Calcule el factorial de un numero usando `!` ejemplo `5!=120`
   
 ---
 
-### Compilar y ejecutar
+## Compilar y ejecutar
 Generar los archivos de ANTLR4
 
 
