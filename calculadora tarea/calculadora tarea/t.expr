@@ -1,0 +1,36 @@
+193
+a=5
+b=6
+a+b*2
+(1+2)*3/7
+6/5!
+5!
+(1+2)*(4!+1-0)
+ln(60)
+log(6)
+sin(0)
+cos(60)
+tan(80-5^5+(ln(30)))
+sqrt(2000)
+mode grados
+sin(90)
+cos(60)
+mode radianes
+sin(3.1415926535/2)
+cos(3.1415926535/3)
+a = 10
+b = 2
+c = 3
+(a + b) / c
+a + b * c
+100 / (a * b)
+(3 + 4) * (5 - 6)
+2^5 + 4!
+sqrt(a * 2)
+ln(100) + log(10)
+mode grados
+sin(30) + cos(45)
+mode radianes
+pi= 3.14159
+sin(pi/2) - cos(pi)
+tan(pi/4)
